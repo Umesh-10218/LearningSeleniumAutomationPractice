@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Testing of the Katalon Website , Appointment Booking & Verify Booked Appointment","21132","test_Booking","Default Suite","Tue Apr 01 08:42:29 IST 2025","passed","Tue Apr 01 08:42:50 IST 2025","org.umeshpractice.Mini_Projects.katalon_ETOE_Automation","LearningSeleniumAutomationPractice","org.umeshpractice.Mini_Projects.katalon_ETOE_Automation","test_Booking"
