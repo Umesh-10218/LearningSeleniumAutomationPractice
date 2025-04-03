@@ -3,7 +3,7 @@
 <suite name="Suite">
     <test name="TestSelenium">
         <classes>
-            <class name="org.umeshpractice.Selenium_Basics.java.TestSelenium001"/>
+            <class name="org.umeshpractice.Mini_Projects.app_vwo_login"/>
         </classes>
     </test>
 </suite>
